@@ -1,5 +1,9 @@
 public enum Figure {
     PAPER,
     ROCK,
-    SCISSORS
+    SCISSORS,
+
+    //add comment
+
+
 }
